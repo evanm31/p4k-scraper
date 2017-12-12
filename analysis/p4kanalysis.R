@@ -1,5 +1,5 @@
 library(tidyverse)
-p4k <- read.csv("C:/Users/Evan/Documents/scrapeFork/p4kreviews.csv")
+p4k <- read.csv("my_file_path/p4kreviews.csv")
 glimpse(p4k)
 #by genre
 p4k %>% 
