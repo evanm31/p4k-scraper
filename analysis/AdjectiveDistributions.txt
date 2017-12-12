@@ -1,9 +1,3 @@
-12/12/17
-LING 409
-Bhatt/Vostrikova
-Final Project Writeup - Pitchfork Review Analysis Supplement
-Adjective Frequency Distributions by Genre
-
 All Genres			
 [(('new', 'JJ'), 18621),         
  (('first', 'JJ'), 17351),
